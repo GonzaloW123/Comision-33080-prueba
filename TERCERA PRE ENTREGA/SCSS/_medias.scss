@@ -1,0 +1,28 @@
+  
+
+@media screen and (min-width: 900) and  ( max-width:1024 )  {
+    
+    .df-img{
+        width: 50vw;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        margin-left: 8vw;
+
+
+    }
+    .titulos{
+        width:  75vw;
+        
+        justify-content: center;
+    }
+    #servicios {
+        width: 75vw;
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap:3vw ;
+        margin-left: 15vw;
+
+    }
+    
+}
